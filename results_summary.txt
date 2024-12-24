@@ -1,0 +1,76 @@
+##################
+Max accuracy found: 90.78060807515679
+Log file path: saves_0905/caltech101/caltech101_0.001_0.0_sharethre_0.95_K200_m3l_experiments/M3L/ViT-B_prompt_m3l_200/seed1/log.txt
+Details: max_accuracy=90.78060807515679, n_parameters=87282534, prompt_indices=[0, 2, 3, 5, 7, 9, 10, 11]
+##################
+Max accuracy found: 76.63
+Log file path: saves_0905/cifar100/cifar100_0.001_0.001_sharethre_0.93_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=76.63, n_parameters=368740, prompt_indices=[0, 2, 4, 6, 8, 11]
+##################
+Max accuracy found: 73.93617034262799
+Log file path: saves_0905/dtd/dtd_0.001_0.001_sharethre_0.98_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=73.93617034262799, n_parameters=558383, prompt_indices=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+##################
+Max accuracy found: 99.34948772158074
+Log file path: saves_0905/oxford_flowers102/oxford_flowers102_0.001_0.0001_sharethre_0.95_K100_m3l_experiments/M3L/ViT-B_prompt_m3l_100/seed1/log.txt
+Details: max_accuracy=99.34948772158074, n_parameters=715878, prompt_indices=[0, 2, 4, 6, 8, 10, 11]
+##################
+Max accuracy found: 92.01417284071624
+Log file path: saves_0905/oxford_pet/oxford_pet_0.001_0.01_sharethre_0.97_K5_m3l_experiments/M3L/ViT-B_prompt_m3l_5/seed1/log.txt
+Details: max_accuracy=92.01417284071624, n_parameters=93733, prompt_indices=[0, 2, 3, 4, 5, 6, 7, 9, 10, 11]
+##################
+Max accuracy found: 87.65749846811886
+Log file path: saves_0905/svhn/svhn_0.25_0.01_sharethre_0.97_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=87.65749846811886, n_parameters=414730, prompt_indices=[0, 2, 3, 4, 5, 6, 8, 10, 11]
+##################
+Max accuracy found: 57.71954023269127
+Log file path: saves_0905/sun397/sun397_0.001_0.0001_sharethre_0.95_K10_m3l_experiments/M3L/ViT-B_prompt_m3l_10/seed1/log.txt
+Details: max_accuracy=57.71954023269127, n_parameters=389773, prompt_indices=[0, 2, 4, 6, 8, 10, 11]
+##################
+Max accuracy found: 87.158203125
+Log file path: saves_0905/patch_camelyon/patch_camelyon_0.001_0.001_sharethre_0.98_K30_m3l_experiments/M3L/ViT-B_prompt_m3l_30/seed1/log.txt
+Details: max_accuracy=87.158203125, n_parameters=324098, prompt_indices=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+##################
+Max accuracy found: 96.61111111111111
+Log file path: saves_0905/eurosat/eurosat_0.05_0.0_sharethre_0.97_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=96.61111111111111, n_parameters=86213386, prompt_indices=[0, 2, 3, 4, 5, 6, 7, 9, 11]
+##################
+Max accuracy found: 86.41269842238653
+Log file path: saves_0905/resisc45/resisc45_0.05_0.001_sharethre_0.98_K30_m3l_experiments/M3L/ViT-B_prompt_m3l_30/seed1/log.txt
+Details: max_accuracy=86.41269842238653, n_parameters=334125, prompt_indices=[0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+##################
+Max accuracy found: 76.33934849304815
+Log file path: saves_0905/diabetic_retinopathy/diabetic_retinopathy_1.0_0.01_sharethre_0.96_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=76.33934849304815, n_parameters=449285, prompt_indices=[0, 2, 3, 4, 5, 6, 7, 9, 10, 11]
+##################
+Max accuracy found: 79.21333333333334
+Log file path: saves_0905/clevr_count/clevr_count_0.001_0.0_sharethre_0.97_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=79.21333333333334, n_parameters=86250248, prompt_indices=[0, 2, 3, 4, 5, 6, 7, 8, 10, 11]
+##################
+Max accuracy found: 64.08666667073568
+Log file path: saves_0905/clevr_dist/clevr_dist_0.001_0.01_sharethre_0.95_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=64.08666667073568, n_parameters=334854, prompt_indices=[0, 2, 4, 6, 8, 10, 11]
+##################
+Max accuracy found: 51.233780525699146
+Log file path: saves_0905/dmlab/dmlab_0.001_0.0001_sharethre_0.95_K200_m3l_experiments/M3L/ViT-B_prompt_m3l_200/seed1/log.txt
+Details: max_accuracy=51.233780525699146, n_parameters=1256454, prompt_indices=[0, 3, 5, 6, 8, 10, 11]
+##################
+Max accuracy found: 81.15330517174658
+Log file path: saves_0905/kitti/kitti_0.05_0.001_sharethre_0.97_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=81.15330517174658, n_parameters=448516, prompt_indices=[0, 2, 3, 4, 5, 6, 7, 8, 10, 11]
+##################
+Max accuracy found: 83.61409505208333
+Log file path: saves_0905/dsprites_loc/dsprites_loc_0.001_0.0001_sharethre_0.98_K200_m3l_experiments/M3L/ViT-B_prompt_m3l_200/seed1/log.txt
+Details: max_accuracy=83.61409505208333, n_parameters=1878544, prompt_indices=[0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11]
+##################
+Max accuracy found: 53.889973958333336
+Log file path: saves_0905/dsprites_ori/dsprites_ori_0.05_0.001_sharethre_0.95_K30_m3l_experiments/M3L/ViT-B_prompt_m3l_30/seed1/log.txt
+Details: max_accuracy=53.889973958333336, n_parameters=242704, prompt_indices=[0, 2, 3, 4, 5, 6, 8, 11]
+##################
+Max accuracy found: 33.05349793767733
+Log file path: saves_0905/smallnorb_azi/smallnorb_azi_0.001_0.0001_sharethre_0.98_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=33.05349793767733, n_parameters=497682, prompt_indices=[0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+##################
+Max accuracy found: 45.97530864197531
+Log file path: saves_0905/smallnorb_ele/smallnorb_ele_0.001_0.0_sharethre_0.96_K50_m3l_experiments/M3L/ViT-B_prompt_m3l_50/seed1/log.txt
+Details: max_accuracy=45.97530864197531, n_parameters=86212617, prompt_indices=[0, 2, 3, 4, 5, 7, 9, 10, 11]
